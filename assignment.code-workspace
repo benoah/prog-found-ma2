@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/kristine/Desktop/programfoundation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prog-found-ma2",
+		"liveServer.settings.port": 5501
+	}
+}
