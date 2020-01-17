@@ -33,7 +33,7 @@ catObject.age;
 
 // 7.Take the value of catObject (the {} part) and place it inside an array called catArray. Ask Teacher
               
-    catArray = ["kris", "green", 16];
+  var catArray = [catObject.name, catObject.colour, catObject.age];
 
 
 // 8.Loop throughcatArray and console log each property of each object inside (there will be only 1 object inside).
