@@ -46,11 +46,11 @@ for (var i=0; i<catArray.length; i++){
 // The function should accept 1 argument. 
 //Decide on the name of the argument and console log its value inside the function.
 
-function logToConsole(happy) {
-    console.log(happy);
-}
-logToConsole("hello");
-VM1828:2 hello
+
+
+
+
+
 
 // 10.call the logToConsole
 
