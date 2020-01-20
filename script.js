@@ -47,14 +47,14 @@ for (var i=0; i<catArray.length; i++){
 //Decide on the name of the argument and console log its value inside the function.
 
 
+function logToConsole(pleyer) {
+    console.log(player);
+};
 
 
+// 10.call the logToConsole value "ronaldo"
 
-
-
-// 10.call the logToConsole
-
-
+logToConsole("ronaldo");
 
 
 /*
